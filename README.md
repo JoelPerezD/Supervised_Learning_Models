@@ -1,2 +1,2 @@
 # FraudDetectorModel
-Deteccion de fraudes usando diferentes modelos de maching lerning 
+Deteccion de fraudes en transacciones bancarias usando diferentes modelos de maching learning 
